@@ -3,7 +3,7 @@
  
 ## 프로그래머스
 | 문제 | 코드 | 비고 |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:|:-----:|
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [python3](programmers/구명보트.py) | |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [python3](programmers/하샤드수.py) | |
 | [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [python3](programmers/시저암호.py) | |
@@ -12,3 +12,4 @@
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [python3](programmers/N개의최소공배수.py) | |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951#) | [python3](programmers/JadenCase문자열만들기.py) |공백이 여러 칸인 경우 고려|
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [python3](programmers/최솟값만들기.py) ||
+| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [python3](programmers/피보나치수.py) |재귀함수/DP|
