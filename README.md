@@ -15,3 +15,4 @@
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [python3](programmers/피보나치수.py) |재귀함수/DP|
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | [python3](programmers/숫자의표현.py) ||
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [python3](programmers/최대값최소값.py) ||
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [python3](programmers/다음큰숫자.py) ||
