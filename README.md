@@ -18,3 +18,4 @@
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [python3](programmers/다음큰숫자.py) ||
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [python3](programmers/전화번호목록.py) ||
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [python3](programmers/다리를지나는트럭.py) |스택/큐|
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=python3) | [python3](programmers/둘만의 암호.py) |스택/큐|
