@@ -21,3 +21,4 @@
 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=python3) | [python3](programmers/둘만의암호.py) ||
 | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201) | [mySQL](programmers/12세이하인여자환자목록출력하기.sql) ||
 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [python3](programmers/크기가작은부분문자열.py) ||
+| [과일 장수 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [python3](programmers/과일장수.py) ||
