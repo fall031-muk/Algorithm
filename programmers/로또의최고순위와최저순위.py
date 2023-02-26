@@ -8,5 +8,4 @@ def solution(lottos, win_nums):
             win_count += 1
     answer.append(win_dict[win_count + zero_count])
     answer.append(win_dict[win_count])
-
     return answer
