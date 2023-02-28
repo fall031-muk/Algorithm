@@ -23,3 +23,4 @@
 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [python3](programmers/크기가작은부분문자열.py) ||
 | [과일 장수 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [python3](programmers/과일장수.py) ||
 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [python3](programmers/로또의최고순위와최저순위.py) ||
+| [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [python3](programmers/숫자짝꿍.py) ||
