@@ -1,7 +1,6 @@
 import collections
 
 def solution(X, Y):
-    answer = []
     x_counter = collections.Counter(X)
     y_counter = collections.Counter(Y)
     common = x_counter&y_counter
