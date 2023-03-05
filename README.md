@@ -25,3 +25,4 @@
 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [python3](programmers/로또의최고순위와최저순위.py) ||
 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [python3](programmers/숫자짝꿍.py) ||
 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [python3](programmers/삼총사.py) |combinations 활용 참고|
+| [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [python3](programmers/가장가까운같은글자.py) ||
